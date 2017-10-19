@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vikingeducation/assignment_e2e_nightwatch#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "nightwatch": "^0.9.16"
   }
 }
